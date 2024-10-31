@@ -1,5 +1,4 @@
 ## Hi there 👋
-## 내소개 가능
 
 
 **Mino2437/Mino2437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
